@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "caioclimatesmod:block/dark_oak_fall_leaves"
+  }
+}
